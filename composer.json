@@ -1,0 +1,15 @@
+{
+    "name": "robwasripped/json-array-2-php",
+    "description": "Converts a JSON array into a PHP array",
+    "type": "project",
+    "require": {
+        "brick/varexporter": "^0.3.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rob Treacy",
+            "email": "email@roberttreacy.co.uk"
+        }
+    ]
+}
